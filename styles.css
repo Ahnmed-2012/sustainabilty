@@ -1,0 +1,12 @@
+h1 { text-align: center; }
+
+.container { background-color: hsl(120, 100%, 50%); background-image: url("https://codingal.s3.amazonaws.com/media/uploads/2024/03/27/themes-1.png"); background-size: cover; background-position: center; padding: 10px 0; }
+
+.marker { width: 200px; height: 25px; margin: 10px auto; }
+
+.red { background-color: rgb(255, 0, 0); }
+
+.green { background-color: #007F00; }
+
+.blue { background-color: hsl(240, 100%, 50%); }
+
